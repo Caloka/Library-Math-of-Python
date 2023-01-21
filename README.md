@@ -1,8 +1,8 @@
 # **MATH-PYTHON**
-### **Nesse repositório, será abordado algumas funções do módulo 'math'.**
-### **A biblioteca 'math'(significa matemática), é responsável por apresentar diversas funções para calcular funções matemáticas utilizando a lingaugem de programação, Python.**
-### **À seguir, serão abordados algumas funções para facilitar o entendimento do uso da ferramenta.**
-### **Para calcularmos funções trigonométricas no python, utilizaremos funções do módulo 'math', vejamos abaixo:**
+#### **Nesse repositório, será abordado algumas funções do módulo 'math'.**
+#### **A biblioteca 'math', é responsável por apresentar diversas ferramentas para calcular funções matemáticas utilizando a linguagem de programação Python.**
+#### **À seguir, serão abordados algumas funções para facilitar o entendimento do uso da ferramenta.**
+#### **Para calcularmos funções trigonométricas no python, utilizaremos funções do módulo 'math', vejamos abaixo:**
 
 ~~~python
  # Importando módulo Math

@@ -1,4 +1,4 @@
-# **MATH-PYTHON**
+# **Math Python**
 #### **Nesse repositório, será abordado algumas funções do módulo 'math'.**
 #### **A biblioteca 'math', é responsável por apresentar diversas ferramentas para calcular funções matemáticas utilizando a linguagem de programação Python.**
 #### **À seguir, serão abordados algumas funções para facilitar o entendimento do uso da ferramenta.**

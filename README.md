@@ -49,7 +49,8 @@ log1 = math.log(var,10) # Outra forma de encontrar o logarítmo de 'var' na base
 
 
 # Números complexos
-''' Para inserir números complexos, basta inserir um "j" ao lado do valor, vejamos:'''
-num = 3j
+''' 2 formas de declarar números complexos no pytho, vejamos:'''
+num = 3j # Apenas adicionando um 'j' ao lado do valor da variável
+num2 = complex(2,1) # usando a classe complex já incluida no próprio python. Aqui ele retornar: 2 + 1j
 
 ~~~

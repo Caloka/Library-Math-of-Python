@@ -9,13 +9,13 @@
 import math
 
 # Declarando as variáveis
-var = 30 # Ângulo em graus
-var2 = 2 # Número inteiro
+var = 30 # Vamos considerar essa variável como um ãngulo em graus
+var2 = 2 # Vamos considerar essa variável como um número inteiro
 
 
 # Utilizando funções de conversão
-varRad = math.radians(var) # Grau > Radianos
-varGra = math.degrees(varRad) # Radianos > Grau
+varRad = math.radians(var) # Grau >>> Radianos
+varGra = math.degrees(varRad) # Radianos >>> Grau
 
 
 # Utilizando funções de trigonometria

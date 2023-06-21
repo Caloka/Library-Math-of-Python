@@ -32,7 +32,9 @@ raiz = math.sqrt(var) # Acha a raiz quadrada de var
 
 
 # Potência
-potência = math.pow(var,var2) # Acha a potência de var(30) elevado à var2(2)
+potência1 = math.pow(var,var2) # Acha a potência de var(30) elevado à var2(2)
+''' Outa forma de calcular potência, é:'''
+potência2 = var**var # Acha a potência de 30 elevado à 2
 
 # Constantes
 pi = math.pi # Declara o pi como variável

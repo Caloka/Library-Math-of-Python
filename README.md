@@ -5,7 +5,6 @@
 #### **Para calcularmos funções trigonométricas no python, utilizaremos funções do módulo 'math', vejamos abaixo:**
 
 ~~~python
- # Importando módulo Math
 import math
 
 # Declarando as variáveis

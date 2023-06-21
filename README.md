@@ -8,7 +8,7 @@
  # Importando módulo Math
 import math
 
-# Declarando uma variável
+# Declarando as variáveis
 var = 30 # Ângulo em graus
 var2 = 2 # Número inteiro
 
@@ -33,6 +33,7 @@ raiz = math.sqrt(var) # Acha a raiz quadrada de var
 
 # Potência
 potência = math.pow(var,var2) # Acha a potência de var(30) elevado à var2(2)
+
 # Constantes
 pi = math.pi # Declara o pi como variável
 neperiano = math.e # Declara o número neperiano como variável
@@ -43,4 +44,10 @@ infinito = math.inf # Declara o valor infinito como variável
 ln =  math.log(var) # Encontra o logarítmo natural(ln) da variável 'var' 
 log = math.log10(var) # Encontra o logarítmo da variável 'var' na base 10
 log1 = math.log(var,10) # Outra forma de encontrar o logarítmo de 'var' na base 10
+
+
+# Números complexos
+''' Para inserir números complexos, basta inserir um "j" ao lado do valor, vejamos:'''
+num = 3j
+
 ~~~

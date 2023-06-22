@@ -11,6 +11,8 @@ import math
 var = 30 # Vamos considerar essa variável como um ãngulo em graus
 var2 = 2 # Vamos considerar essa variável como um número inteiro
 
+# Multiplicação
+multi = math.prod([var,var2])
 
 # Utilizando funções de conversão
 varRad = math.radians(var) # Grau >>> Radianos
